@@ -1,0 +1,22 @@
+[
+    {
+      "sender": "JB",
+      "subject" : "Really cool subject",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus auctor, enim et fringilla pulvinar, neque nibh interdum est, non facilisis arcu mauris id ipsum. Vivamus euismod ultrices eleifend."
+    },
+    {
+      "sender": "Mr. X",
+      "subject" : "First Message",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus auctor, enim et fringilla pulvinar, neque nibh interdum est, non facilisis arcu mauris id ipsum. Vivamus euismod ultrices eleifend."
+    },
+    {
+      "sender": "Mr. X",
+      "subject" : "Ok , forget it",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus auctor, enim et fringilla pulvinar, neque nibh interdum est, non facilisis arcu mauris id ipsum. Vivamus euismod ultrices eleifend."
+    },
+    {
+      "sender": "Mr. X",
+      "subject" : "Ok , forget it",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus auctor, enim et fringilla pulvinar, neque nibh interdum est, non facilisis arcu mauris id ipsum. Vivamus euismod ultrices eleifend."
+    }
+  ]
